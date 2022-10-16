@@ -8,7 +8,7 @@
     background: url(alethian.gif);
 }
 .custom.disconnected {
-    background: url(https://gamepadviewer.com/xbox-assets/disconnected.svg)
+    display: none;
 }
 .custom.disconnected div {
     display: none;
